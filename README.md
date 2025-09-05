@@ -63,7 +63,3 @@
 - VRC detecta 1 bit por byte pero puede fallar con dos bits invertidos en el mismo byte.  
 - LRC detecta mejor errores de **bloque** (múltiples bits), con overhead decreciente.
 
-
-## Licencia
-
-Uso académico. Si reutilizas, cita a los autores del laboratorio.
